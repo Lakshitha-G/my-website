@@ -1,0 +1,8 @@
+.folder{
+    height: 200px; /* fixed height */
+    overflow-y: auto; /* scroll if content grows */
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fafafa;
+  }
+  
